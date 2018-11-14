@@ -11501,23 +11501,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mihai\\.nuget\\packages\\": {},
+    "C:\\Users\\miste\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
+      "projectUniqueName": "D:\\Faculty\\Github\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
       "projectName": "Lab7_DotNet",
-      "projectPath": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
-      "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mihai\\source\\repos\\Lab7_DotNet\\Lab7_DotNet\\obj\\",
+      "projectPath": "D:\\Faculty\\Github\\Lab7_DotNet\\Lab7_DotNet\\Lab7_DotNet.csproj",
+      "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
+      "outputPath": "D:\\Faculty\\Github\\Lab7_DotNet\\Lab7_DotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mihai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11553,6 +11553,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
